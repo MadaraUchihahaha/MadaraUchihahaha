@@ -8,7 +8,7 @@
 ## 🔍 About Me
 I daydream like Madara Uchiha but code like Rock Lee 🥷.
 <p align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmpkenU4bjQ0MmY3OXV2eGwxZ3o5MWxtOWpkZng0cG95amN5b3pxbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/j7k6JOp8LufhXspVfu/giphy.gif" width="500" alt="Coding Gif" />
+  <img src="https://github.com/samadpls/Programing-Gifs/blob/main/static/gifs/pic4.gif?raw=true" width="500" alt="Coding Gif" />
 </p>
 
 
